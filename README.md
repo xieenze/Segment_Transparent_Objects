@@ -8,7 +8,7 @@ For downloading the data, you can refer to [Trans10K Website](https://xieenze.gi
 ## Environments
 
 - python 3
-- torch >= 1.1.0
+- torch = 1.1.0 (>1.1.0 with cause performance drop, we can't find the reason)
 - torchvision
 - pyyaml
 - Pillow
